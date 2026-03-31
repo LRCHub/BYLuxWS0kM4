@@ -1,25 +1,16 @@
 {
   "version": 1,
-  "base_track": "離心律",
-  "base_artist": "m.e.g works",
-  "createdAt": "2026-03-31T13:59:26.667838Z",
+  "base_track": "貰い火傷",
+  "base_artist": "Kyiku",
+  "createdAt": "2026-03-31T13:59:30.247031Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "離心律 (feat. 初音ミク)",
-      "artist": "m.e.g works",
+      "title": "貰い火傷",
+      "artist": "Kyiku",
       "has_synced": false,
-      "path": "select/pl_01_離心律_(feat._初音ミク)_m.e.g_works.txt"
-    },
-    {
-      "id": "localdb_1",
-      "source": "localdb",
-      "title": "離心律",
-      "artist": "m.e.g works",
-      "has_synced": false,
-      "path": "select/localdb_01_離心律_m.e.g_works.txt",
-      "repo_name": "38iok-5wkdo"
+      "path": "select/pl_01_貰い火傷_Kyiku.txt"
     }
   ]
 }
